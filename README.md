@@ -1,6 +1,6 @@
 #complete randomness 👋
 
-<!--
+
 ** life is complete randomness
 
  ####Here are some of my random
